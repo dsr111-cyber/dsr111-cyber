@@ -2,100 +2,31 @@
 
 # 👋 Hi, I'm Durgesh Mishra
 
-### 🤖 AI/ML Developer • ☁️ Cloud Enthusiast • 💻 Full Stack Developer
+### 🤖 AI/ML Developer • ☁️ Cloud Builder • 🚀 AI Agent Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Developer;Machine+Learning+Explorer;Building+Intelligent+Applications;Cloud+Computing+Learner;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Developer;Machine+Learning+Explorer;AI+Agent+Builder;Cloud+Computing+Enthusiast;Agentic+AI+Expert;Building+Intelligent+Applications" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=dsr111-cyber&label=Profile+Views&color=39D353&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=dsr111-cyber&label=PROFILE+VIEWS&color=39D353&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🤖 About Me
+# 🤖 About Me
 
-- 🧠 AI & Machine Learning Enthusiast
-- 🚀 Building Intelligent Applications
-- ☁️ Learning Cloud Technologies
+- 🧠 AI & Machine Learning Explorer
+- 🚀 Building AI Agents & Intelligent Applications
+- ☁️ Exploring Cloud Computing
+- ⚡ Agentic AI Expert
 - 💻 Full Stack Developer
 - 📚 Open Source Contributor
+- 🎯 Goal: Build AI-powered products that solve real-world problems
 
 ---
 
-# 🎮 AI Agent Contribution Game
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dsr111-cyber/dsr111-cyber/main/assets/pacman.svg" width="100%" />
-
-</div>
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,html,css,js,react,nodejs,mysql,firebase,gcp,docker,git,github,vscode"/>
-
-</p>
-
----
-
-## 📂 Featured Projects
-
-### 🌍 Azure Translator
-Multilingual translation application powered by Azure Translator API.
-
-### 📜 Historyorg.com
-History-focused platform built using TypeScript.
-
-### ☁️ Cloud Run Progression
-Google Cloud deployment project.
-
-### 🐍 Hello Cloud Build App
-CI/CD project using Cloud Build.
-
-### 📈 Nimbus Portfolio Simulator
-Portfolio management simulation project.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dsr111-cyber&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsr111-cyber&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dsr111-cyber&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dsr111-cyber&theme=github-dark"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -115,10 +46,48 @@ Portfolio management simulation project.
 
 ---
 
+# 🎮 AI Agent Contribution Game
+
 <div align="center">
 
-### 💡 Quote
-
-"Turning data into intelligence and ideas into reality."
+<img src="https://raw.githubusercontent.com/dsr111-cyber/dsr111-cyber/main/assets/ai-agent-contribution-game.svg" width="100%" />
 
 </div>
+
+---
+
+# 🚀 Tech Stack & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,firebase,gcp,github,vscode,figma"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AntiGravity-39D353?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Stitch-FF6B6B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google%20Whisk-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Opus-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Agentic%20AI%20Expert-8A2BE2?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🧠 Current Focus
+
+```yaml
+Artificial Intelligence
+Machine Learning
+Generative AI
+AI Agents
+Cloud Computing
+Agentic AI Expert
