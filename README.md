@@ -24,22 +24,12 @@
 
 </div>
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Durgesh+Mishra+👋;AI/ML+%26+Cloud+Developer+☁️;Agentic+AI+Expert+🤖;Building+Intelligent+Applications+🚀)
-
-![Profile Views](https://komarev.com/ghpvc/?username=dsr111-cyber&label=Profile+views&color=0e75b6&style=flat-square)
-![Stars](https://img.shields.io/github/stars/dsr111-cyber?style=flat-square&color=lightgrey)
-![Followers](https://img.shields.io/github/followers/dsr111-cyber?style=flat-square&color=lightgrey)
-
-</div>
-
 ## 👋 About Me
 ---
 <img align="right" width="220" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Coding Illustration">
 
 * 🎓 I am a first-year **B.Tech student** (2025–26) with a deep passion for problem-solving and software architecture.
-* 🏛️ Active **Campus Ambassador** at IIT Roorkee (IITR) and a proud member of the **Microsoft Student Developer Community (MSDC)**.
+* 🏛️ 2026 **Campus Ambassador** at IIT Roorkee (IITR) and a proud member of the **Microsoft Student Developer Community (MSDC)**.
 * ☁️ **Primary Focus:** Agentic AI, Cloud Computing (Azure & GCP), and Full-Stack Development.
 * 🚀 **Currently Building:** **FestOnDemand** (a threshold-based event tech platform to mitigate financial risks for creators) and **UCall** (a university-focused communication platform).
 * 📜 **Certifications:** Certified IBM Enterprise Design Thinking Practitioner.
@@ -66,28 +56,17 @@
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,react,flutter,tailwind" alt="Languages & Frameworks" />
 </p>
 
 ### ☁️ Cloud & Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/GOOGLECLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AZURE-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=gcp,azure,firebase,docker" alt="Cloud & Backend" />
 </p>
 
 ### 🔧 Tools & Architecture
 <p align="left">
-  <img src="https://img.shields.io/badge/VS%20CODE-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,github" alt="Tools & Architecture" />
 </p>
 
 ## 📊 GitHub Analytics
@@ -102,7 +81,7 @@
 ## 🎮 AI Agent Contribution Game
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dsr111-cyber/dsr111-cyber/main/assets/pacman.svg" width="100%" alt="AI Agent Contribution Game">
+  <img src="./assets/pacman.svg" width="100%" alt="AI Agent Contribution Game">
 </div>
 
 ---
