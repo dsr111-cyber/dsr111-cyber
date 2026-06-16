@@ -102,8 +102,7 @@
 ## 🎮 AI Agent Contribution Game
 ---
 <div align="center">
-  <!-- Using Raw GitHub User Content link to prevent broken paths -->
-  <img src="https://raw.githubusercontent.com/dsr111-cyber/dsr111-cyber/main/assets/ai-agent-contribution-game.svg" width="100%" alt="AI Agent Contribution Game">
+  <img src="https://raw.githubusercontent.com/dsr111-cyber/dsr111-cyber/main/assets/pacman.svg" width="100%" alt="AI Agent Contribution Game">
 </div>
 
 ---
