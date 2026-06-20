@@ -16,9 +16,6 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Durgesh+Mishra+👋;AI/ML+%26+Cloud+Developer+☁️;Agentic+AI+Expert+🤖;Building+Intelligent+Applications+🚀)
-
-
 
 ## 👋 About Me
 ---
