@@ -87,4 +87,162 @@
 ---
 <div align="center">
   <i>Let's build something amazing together!</i>
-</div>
+</div><h1 align="center">Hi 👋, I'm Durgesh Mishra</h1>
+<h3 align="center">Full-Stack Developer | Agentic AI Developer | Cloud Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Agentic+AI+Developer;Google+Cloud+Platform+Enthusiast;Building+Intelligent+AI+Agents;Always+Learning+New+Things&center=true&width=600&height=45">
+</p>
+
+---
+
+## 👋 About Me
+
+- 👨‍💻 Full-Stack Developer & Agentic AI Developer
+- ☁️ Focused on Google Cloud Platform (GCP)
+- 🤖 Building AI Agents, GenAI Applications & Automation Systems
+- 🚀 Turning ideas into scalable digital products
+- 📍 Lucknow, India
+
+> **"Building the future, one intelligent AI agent at a time."**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/durgesh-mishra-024276341/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/dsr_durgesh" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:25LBCS3264@culkomail.in">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+</p>
+
+### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,mysql" />
+</p>
+
+### Cloud, DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,bash" />
+</p>
+
+### Design & Productivity
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+### AI & Emerging Technologies
+
+- Agentic AI
+- Generative AI
+- AI Automation
+- Prompt Engineering
+- Cloud AI Solutions
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Azure Translator Web App
+A multilingual translation platform powered by Azure Translator API with a responsive user interface.
+
+**Tech Stack:** JavaScript, CSS, Azure API
+
+---
+
+### 🌍 Historyorg.com
+A history-focused web platform developed using modern TypeScript technologies.
+
+**Tech Stack:** TypeScript
+
+---
+
+### ☁️ Cloud Run Progression
+Hands-on deployment and experimentation with Google Cloud Run services.
+
+**Tech Stack:** Google Cloud Run, Docker
+
+---
+
+### 🔧 Hello Cloud Build App
+CI/CD workflow implementation using Google Cloud Build.
+
+**Tech Stack:** Python, Google Cloud Build
+
+---
+
+### 🚀 Hello Cloud Build Env
+Automated environment setup and deployment pipeline experiments.
+
+**Tech Stack:** Python, GCP
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dsr111-cyber&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dsr111-cyber&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsr111-cyber&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dsr111-cyber&theme=tokyonight&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dsr111-cyber&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🤖 Building Agentic AI Applications
+- ☁️ Deepening Google Cloud Platform expertise
+- 🚀 Developing AI-powered automation workflows
+- 🌍 Contributing to impactful open-source projects
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile! ⭐</b>
+</p>
+
+
