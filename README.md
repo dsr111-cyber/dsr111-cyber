@@ -18,7 +18,7 @@
 
 
 ## 👋 About Me
----
+
 <img align="right" width="220" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Coding Illustration">
 
 - 👨‍💻 Full-Stack Developer & Agentic AI Developer
