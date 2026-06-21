@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Durgesh Mishra
 
-### 🤖 AI/ML Developer • ☁️ Cloud Builder • 🚀 AI Agent Enthusiast
+### Full-Stack Developer | Agentic AI Developer | Cloud Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Developer;Machine+Learning+Explorer;AI+Agent+Builder;Cloud+Computing+Enthusiast;Agentic+AI+Expert;Building+Intelligent+Applications" />
 
@@ -21,13 +21,13 @@
 ---
 <img align="right" width="220" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Coding Illustration">
 
-* 🎓 I am a first-year **B.Tech student** (2025–26) with a deep passion for problem-solving and software architecture.
-* 🏛️ 2026 **Campus Ambassador** at IIT Roorkee (IITR) and a proud member of the **Microsoft Student Developer Community (MSDC)**.
-* ☁️ **Primary Focus:** Agentic AI, Cloud Computing (Azure & GCP), and Full-Stack Development.
-* 🚀 **Currently Building:** **FestOnDemand** (a threshold-based event tech platform to mitigate financial risks for creators) and **UCall** (a university-focused communication platform).
-* 📜 **Certifications:** Certified IBM Enterprise Design Thinking Practitioner.
-* 💡 My quote: *"Building the future, one intelligent AI agent at a time."*
+- 👨‍💻 Full-Stack Developer & Agentic AI Developer
+- ☁️ Focused on Google Cloud Platform (GCP)
+- 🤖 Building AI Agents, GenAI Applications & Automation Systems
+- 🚀 Turning ideas into scalable digital products
+- 📍 Lucknow, India
 
+> **"Building the future, one intelligent AI agent at a time."**
 <br>
 
 ## 🌐 Connect With Me
