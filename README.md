@@ -1,16 +1,17 @@
+---
 <div align="center">
-
-# 👋 Hi, I'm Durgesh Mishra
-
-### Full-Stack Developer | Agentic AI Developer | Cloud Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Developer;Machine+Learning+Explorer;AI+Agent+Builder;Cloud+Computing+Enthusiast;Agentic+AI+Expert;Building+Intelligent+Applications" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=dsr111-cyber&label=PROFILE+VIEWS&color=39D353&style=for-the-badge"/>
-
+  <img src="./assets/pacman.svg" width="100%" alt="AI Agent Contribution Game">
 </div>
+
+---
+<div align="center">
+  <i>Let's build something amazing together!</i>
+</div><h1 align="center">Hi 👋, I'm Durgesh Mishra</h1>
+<h3 align="center">Full-Stack Developer | Agentic AI Developer | Cloud Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Agentic+AI+Developer;Google+Cloud+Platform+Enthusiast;Building+Intelligent+AI+Agents;Always+Learning+New+Things&center=true&width=600&height=45">
+</p>
 
 ---
 
