@@ -94,7 +94,9 @@
 </p>
 
 ---
-<p align=""
+<div align="">
+
+  
 ## 🎯 Current Focus
 
 - 🤖 Building Agentic AI Applications
