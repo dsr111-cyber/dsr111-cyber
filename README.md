@@ -52,7 +52,7 @@
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,,flutter,t" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python," alt="Languages & Frameworks" />
 </p>
 
 ### ☁️ Cloud & Backend
