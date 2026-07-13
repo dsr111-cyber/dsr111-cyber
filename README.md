@@ -52,12 +52,12 @@
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,react,flutter,tailwind" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,,flutter,t" alt="Languages & Frameworks" />
 </p>
 
 ### ☁️ Cloud & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,azure,firebase,docker" alt="Cloud & Backend" />
+  <img src="https://skillicons.dev/icons?i=gcp,azure,firebase," alt="Cloud & Backend" />
 </p>
 
 ### 🔧 Tools & Architecture
